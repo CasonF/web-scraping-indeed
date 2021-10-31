@@ -10,5 +10,6 @@ each time the program isrun because of how indeed web pages are generated.
 All data has been output in the form of strings (text) to .csv and .xlsx files,
 but it should be relatively easy to split it and change its type to match your needs.
 
-![Screenshot (140)](https://user-images.githubusercontent.com/75468526/139593968-49ebd303-1569-46ff-b713-1768b0df4a94.png)
+
+![Screenshot (141)](https://user-images.githubusercontent.com/75468526/139594039-5bb4d3ba-5959-44e3-82c7-50653b2db169.png)
 .xlsx sample output
