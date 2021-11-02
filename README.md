@@ -5,7 +5,7 @@ including the job title, its location, the hiring or recruiting company, and its
 Comments cover much of the idiosyncrasies present in the code itself.
 
 Presently, urls list is hard-coded and non-variable, though the outputs vary slightly
-each time the program isrun because of how indeed web pages are generated.
+each time the program is run because of how indeed web pages are generated.
 
 All data has been output in the form of strings (text) to .csv and .xlsx files,
 but it should be relatively easy to split it and change its type to match your needs.
