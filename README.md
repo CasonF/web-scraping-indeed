@@ -33,7 +33,7 @@ Pay/Salary–This is the expected pay grade you would receive if you started at 
 
 5. A couple ways this data could be used might be to:
 A) Compare pay grades with job titles, as well as pay within specific cities or states.
-B) Generate comparisons between companies/recruitment agencies to determine who is doing the most hiring for these positions, where they are stations out of, and what they're willing to pay.
+B) Generate comparisons between companies/recruitment agencies to determine who is doing the most hiring for these positions, where they are stationed out of, and what they're willing to pay.
 
 
 6. Comma Separated Values (csv) and Excel Worksheet (.xlsx).
